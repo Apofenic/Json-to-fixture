@@ -1,0 +1,9 @@
+{
+  "name": "json-to-fixture",
+  "version": "1.0.0",
+  "description": "turns .json files into javascript fixture files",
+  "main": "jsonToFixture.js",
+  "repository": "git@github.com:Apofenic/json-to-fixture.git",
+  "author": "Anthony Lubrino",
+  "license": "MIT"
+}

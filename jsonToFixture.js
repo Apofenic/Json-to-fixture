@@ -1,7 +1,7 @@
-
-
 const fs = require("fs")
 const path = require("path")
+const defaultConfig = require("./config")
+const destinationPath =
 const JSONPath = process.argv[6] || `../src/requests/fixtures/jsons`
 const basePath = path.join(__dirname, JSONPath)
 const passedItem = process.argv[4] || null

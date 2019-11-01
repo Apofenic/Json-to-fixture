@@ -1,0 +1,8 @@
+{
+  "newFixtureFile": true,
+  "destinationDirectoryPath": "./Fixtures",
+  "sourceDirectoryPath": "./JSONS",
+  "sourceFilePath": "" ,
+  "fixtureFileName": "FixtureData"
+}
+
