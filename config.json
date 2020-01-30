@@ -1,8 +1,8 @@
 {
-  "newFixtureFile": true,
-  "destinationDirectoryPath": "./Fixtures",
-  "sourceDirectoryPath": "./JSONS",
+  "resetdFixtureFile": true,
+  "destinationDirectoryPath": "./fixtures",
+  "sourceDirectoryPath": "./jsons",
   "sourceFilePath": "" ,
-  "fixtureFileName": "FixtureData"
+  "collectionName": "FixtureData"
 }
 
